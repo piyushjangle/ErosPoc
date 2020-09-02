@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "784142962112",
+    "firebase_url": "https://erospoc-ee6fb.firebaseio.com",
+    "project_id": "erospoc-ee6fb",
+    "storage_bucket": "erospoc-ee6fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784142962112:android:990cf50a932e8fd84d0c25",
+        "android_client_info": {
+          "package_name": "com.logituit.erospoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784142962112-k351cq70hl38bljfdv8vp3nd09etog2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSOY9-tovyqqVcqmpJGKpZBw1atWqCsMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784142962112-k351cq70hl38bljfdv8vp3nd09etog2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
